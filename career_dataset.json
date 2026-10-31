@@ -1,0 +1,666 @@
+[
+  {
+    "input": "What can I do after 10th?",
+    "response": "After Class 10, students may choose Class 11–12 in Science, Commerce, or Arts/Humanities, a diploma, ITI, or vocational training. Availability and eligibility vary by state and institution.",
+    "topic": "After 10th options",
+    "level": "10th"
+  },
+  {
+    "input": "What are my options after SSC?",
+    "response": "After Class 10, students may choose Class 11–12 in Science, Commerce, or Arts/Humanities, a diploma, ITI, or vocational training. Availability and eligibility vary by state and institution.",
+    "topic": "After 10th options",
+    "level": "10th"
+  },
+  {
+    "input": "What should I study after class ten?",
+    "response": "After Class 10, students may choose Class 11–12 in Science, Commerce, or Arts/Humanities, a diploma, ITI, or vocational training. Availability and eligibility vary by state and institution.",
+    "topic": "After 10th options",
+    "level": "10th"
+  },
+  {
+    "input": "Which paths are available after tenth standard?",
+    "response": "After Class 10, students may choose Class 11–12 in Science, Commerce, or Arts/Humanities, a diploma, ITI, or vocational training. Availability and eligibility vary by state and institution.",
+    "topic": "After 10th options",
+    "level": "10th"
+  },
+  {
+    "input": "Should I take Science after 10th?",
+    "response": "Science may suit students interested in Mathematics, Physics, Chemistry, Biology, experiments, or technical subjects. Review future course requirements and your interests before choosing.",
+    "topic": "Science stream",
+    "level": "10th"
+  },
+  {
+    "input": "Is Science right for me?",
+    "response": "Science may suit students interested in Mathematics, Physics, Chemistry, Biology, experiments, or technical subjects. Review future course requirements and your interests before choosing.",
+    "topic": "Science stream",
+    "level": "10th"
+  },
+  {
+    "input": "What is the Science stream?",
+    "response": "Science may suit students interested in Mathematics, Physics, Chemistry, Biology, experiments, or technical subjects. Review future course requirements and your interests before choosing.",
+    "topic": "Science stream",
+    "level": "10th"
+  },
+  {
+    "input": "Should I choose science in eleventh?",
+    "response": "Science may suit students interested in Mathematics, Physics, Chemistry, Biology, experiments, or technical subjects. Review future course requirements and your interests before choosing.",
+    "topic": "Science stream",
+    "level": "10th"
+  },
+  {
+    "input": "What is Commerce after 10th?",
+    "response": "Commerce commonly covers Accountancy, Business Studies, and Economics. It can lead toward accounting, finance, business, management, economics, and related courses, depending on eligibility.",
+    "topic": "Commerce stream",
+    "level": "10th"
+  },
+  {
+    "input": "What careers can Commerce lead to?",
+    "response": "Commerce commonly covers Accountancy, Business Studies, and Economics. It can lead toward accounting, finance, business, management, economics, and related courses, depending on eligibility.",
+    "topic": "Commerce stream",
+    "level": "10th"
+  },
+  {
+    "input": "Is Commerce a good stream?",
+    "response": "Commerce commonly covers Accountancy, Business Studies, and Economics. It can lead toward accounting, finance, business, management, economics, and related courses, depending on eligibility.",
+    "topic": "Commerce stream",
+    "level": "10th"
+  },
+  {
+    "input": "What can I do with commerce?",
+    "response": "Commerce commonly covers Accountancy, Business Studies, and Economics. It can lead toward accounting, finance, business, management, economics, and related courses, depending on eligibility.",
+    "topic": "Commerce stream",
+    "level": "10th"
+  },
+  {
+    "input": "What is Arts after 10th?",
+    "response": "Arts/Humanities may include History, Geography, Political Science, Psychology, Sociology, and languages. Possible paths include law, teaching, journalism, design, social sciences, communications, and public service.",
+    "topic": "Arts and Humanities",
+    "level": "10th"
+  },
+  {
+    "input": "Is Humanities a good option?",
+    "response": "Arts/Humanities may include History, Geography, Political Science, Psychology, Sociology, and languages. Possible paths include law, teaching, journalism, design, social sciences, communications, and public service.",
+    "topic": "Arts and Humanities",
+    "level": "10th"
+  },
+  {
+    "input": "What jobs can Arts lead to?",
+    "response": "Arts/Humanities may include History, Geography, Political Science, Psychology, Sociology, and languages. Possible paths include law, teaching, journalism, design, social sciences, communications, and public service.",
+    "topic": "Arts and Humanities",
+    "level": "10th"
+  },
+  {
+    "input": "Which careers are possible after Arts?",
+    "response": "Arts/Humanities may include History, Geography, Political Science, Psychology, Sociology, and languages. Possible paths include law, teaching, journalism, design, social sciences, communications, and public service.",
+    "topic": "Arts and Humanities",
+    "level": "10th"
+  },
+  {
+    "input": "Can I do a diploma after 10th?",
+    "response": "Many states offer diploma or polytechnic courses after Class 10, including technical branches. Admission rules, duration, entrance tests, and lateral-entry options vary; check the official state admission portal.",
+    "topic": "Diploma after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "What is polytechnic?",
+    "response": "Many states offer diploma or polytechnic courses after Class 10, including technical branches. Admission rules, duration, entrance tests, and lateral-entry options vary; check the official state admission portal.",
+    "topic": "Diploma after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "Is diploma engineering possible after SSC?",
+    "response": "Many states offer diploma or polytechnic courses after Class 10, including technical branches. Admission rules, duration, entrance tests, and lateral-entry options vary; check the official state admission portal.",
+    "topic": "Diploma after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "Which technical course can I take after tenth?",
+    "response": "Many states offer diploma or polytechnic courses after Class 10, including technical branches. Admission rules, duration, entrance tests, and lateral-entry options vary; check the official state admission portal.",
+    "topic": "Diploma after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "What is ITI?",
+    "response": "ITI and vocational courses develop practical skills for specific trades. Examples vary by institute and may include electrician, fitter, mechanic, electronics, or computer-related trades. Verify recognition and eligibility.",
+    "topic": "ITI and vocational courses",
+    "level": "10th"
+  },
+  {
+    "input": "Which skill course can I take after 10th?",
+    "response": "ITI and vocational courses develop practical skills for specific trades. Examples vary by institute and may include electrician, fitter, mechanic, electronics, or computer-related trades. Verify recognition and eligibility.",
+    "topic": "ITI and vocational courses",
+    "level": "10th"
+  },
+  {
+    "input": "What is a job-oriented course?",
+    "response": "ITI and vocational courses develop practical skills for specific trades. Examples vary by institute and may include electrician, fitter, mechanic, electronics, or computer-related trades. Verify recognition and eligibility.",
+    "topic": "ITI and vocational courses",
+    "level": "10th"
+  },
+  {
+    "input": "Can I learn a trade after SSC?",
+    "response": "ITI and vocational courses develop practical skills for specific trades. Examples vary by institute and may include electrician, fitter, mechanic, electronics, or computer-related trades. Verify recognition and eligibility.",
+    "topic": "ITI and vocational courses",
+    "level": "10th"
+  },
+  {
+    "input": "How do I choose my stream?",
+    "response": "Compare your interests, subjects you can practise consistently, possible careers, and course eligibility. Review syllabi and talk with a teacher or career counsellor. No stream guarantees success.",
+    "topic": "Choosing a stream",
+    "level": "10th"
+  },
+  {
+    "input": "Science or Commerce or Arts?",
+    "response": "Compare your interests, subjects you can practise consistently, possible careers, and course eligibility. Review syllabi and talk with a teacher or career counsellor. No stream guarantees success.",
+    "topic": "Choosing a stream",
+    "level": "10th"
+  },
+  {
+    "input": "I am confused after 10th.",
+    "response": "Compare your interests, subjects you can practise consistently, possible careers, and course eligibility. Review syllabi and talk with a teacher or career counsellor. No stream guarantees success.",
+    "topic": "Choosing a stream",
+    "level": "10th"
+  },
+  {
+    "input": "Which stream is best for me?",
+    "response": "Compare your interests, subjects you can practise consistently, possible careers, and course eligibility. Review syllabi and talk with a teacher or career counsellor. No stream guarantees success.",
+    "topic": "Choosing a stream",
+    "level": "10th"
+  },
+  {
+    "input": "I got low marks in 10th, what now?",
+    "response": "Marks do not determine your whole future. Check eligibility for available streams, diplomas, vocational programmes, or improvement options. Admission cut-offs vary by institution and year.",
+    "topic": "Low marks after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "Can I have a good career with average marks?",
+    "response": "Marks do not determine your whole future. Check eligibility for available streams, diplomas, vocational programmes, or improvement options. Admission cut-offs vary by institution and year.",
+    "topic": "Low marks after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "My SSC score is low.",
+    "response": "Marks do not determine your whole future. Check eligibility for available streams, diplomas, vocational programmes, or improvement options. Admission cut-offs vary by institution and year.",
+    "topic": "Low marks after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "What are my options with fewer marks?",
+    "response": "Marks do not determine your whole future. Check eligibility for available streams, diplomas, vocational programmes, or improvement options. Admission cut-offs vary by institution and year.",
+    "topic": "Low marks after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "I like computers, what should I choose?",
+    "response": "Possible routes include relevant subjects in Class 11–12, an eligible computer or engineering diploma, or vocational digital-skills training. Build computer basics, logical thinking, and programming gradually.",
+    "topic": "Computer career after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "How do I enter IT after 10th?",
+    "response": "Possible routes include relevant subjects in Class 11–12, an eligible computer or engineering diploma, or vocational digital-skills training. Build computer basics, logical thinking, and programming gradually.",
+    "topic": "Computer career after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "How can I become a software developer?",
+    "response": "Possible routes include relevant subjects in Class 11–12, an eligible computer or engineering diploma, or vocational digital-skills training. Build computer basics, logical thinking, and programming gradually.",
+    "topic": "Computer career after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "Which course is good for computer lovers?",
+    "response": "Possible routes include relevant subjects in Class 11–12, an eligible computer or engineering diploma, or vocational digital-skills training. Build computer basics, logical thinking, and programming gradually.",
+    "topic": "Computer career after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "How should I study in 11th?",
+    "response": "Review the syllabus for your chosen stream, study in short regular blocks, practise questions, revise weekly, and ask for help with difficult topics. Keep time for sleep and breaks.",
+    "topic": "Study plan after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "Give me a study plan after SSC.",
+    "response": "Review the syllabus for your chosen stream, study in short regular blocks, practise questions, revise weekly, and ask for help with difficult topics. Keep time for sleep and breaks.",
+    "topic": "Study plan after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "How can I prepare for Class 11?",
+    "response": "Review the syllabus for your chosen stream, study in short regular blocks, practise questions, revise weekly, and ask for help with difficult topics. Keep time for sleep and breaks.",
+    "topic": "Study plan after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "How do I improve my study routine?",
+    "response": "Review the syllabus for your chosen stream, study in short regular blocks, practise questions, revise weekly, and ask for help with difficult topics. Keep time for sleep and breaks.",
+    "topic": "Study plan after 10th",
+    "level": "10th"
+  },
+  {
+    "input": "What can I do after 12th?",
+    "response": "Options may include undergraduate degrees, professional courses, diplomas, vocational programmes, apprenticeships, and entrance-exam-based courses. Check subject eligibility, recognition, cost, duration, and future opportunities.",
+    "topic": "Options after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "What are my options after HSC?",
+    "response": "Options may include undergraduate degrees, professional courses, diplomas, vocational programmes, apprenticeships, and entrance-exam-based courses. Check subject eligibility, recognition, cost, duration, and future opportunities.",
+    "topic": "Options after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which course should I choose after class twelve?",
+    "response": "Options may include undergraduate degrees, professional courses, diplomas, vocational programmes, apprenticeships, and entrance-exam-based courses. Check subject eligibility, recognition, cost, duration, and future opportunities.",
+    "topic": "Options after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Tell me post-twelfth options.",
+    "response": "Options may include undergraduate degrees, professional courses, diplomas, vocational programmes, apprenticeships, and entrance-exam-based courses. Check subject eligibility, recognition, cost, duration, and future opportunities.",
+    "topic": "Options after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "How can I become an engineer?",
+    "response": "Engineering programmes commonly require relevant Class 12 subjects, often Physics and Mathematics, plus the applicable entrance or merit process. Requirements differ by programme, state, and institution.",
+    "topic": "Engineering after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Can I do BTech after 12th?",
+    "response": "Engineering programmes commonly require relevant Class 12 subjects, often Physics and Mathematics, plus the applicable entrance or merit process. Requirements differ by programme, state, and institution.",
+    "topic": "Engineering after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "What are the requirements for engineering?",
+    "response": "Engineering programmes commonly require relevant Class 12 subjects, often Physics and Mathematics, plus the applicable entrance or merit process. Requirements differ by programme, state, and institution.",
+    "topic": "Engineering after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which subjects do I need for engineering?",
+    "response": "Engineering programmes commonly require relevant Class 12 subjects, often Physics and Mathematics, plus the applicable entrance or merit process. Requirements differ by programme, state, and institution.",
+    "topic": "Engineering after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which degree is good for IT jobs?",
+    "response": "Possible routes include BE/BTech in Computer Science or IT, BCA, BSc Computer Science, and related recognised programmes. Check institution eligibility and build programming, problem-solving, database, and project skills.",
+    "topic": "Computer science and IT",
+    "level": "12th"
+  },
+  {
+    "input": "How can I work in software?",
+    "response": "Possible routes include BE/BTech in Computer Science or IT, BCA, BSc Computer Science, and related recognised programmes. Check institution eligibility and build programming, problem-solving, database, and project skills.",
+    "topic": "Computer science and IT",
+    "level": "12th"
+  },
+  {
+    "input": "Should I choose BCA or BTech?",
+    "response": "Possible routes include BE/BTech in Computer Science or IT, BCA, BSc Computer Science, and related recognised programmes. Check institution eligibility and build programming, problem-solving, database, and project skills.",
+    "topic": "Computer science and IT",
+    "level": "12th"
+  },
+  {
+    "input": "What should I study for coding jobs?",
+    "response": "Possible routes include BE/BTech in Computer Science or IT, BCA, BSc Computer Science, and related recognised programmes. Check institution eligibility and build programming, problem-solving, database, and project skills.",
+    "topic": "Computer science and IT",
+    "level": "12th"
+  },
+  {
+    "input": "How can I enter healthcare after 12th?",
+    "response": "Options include regulated medical programmes, dentistry, nursing, pharmacy, physiotherapy, allied health, and life sciences. Requirements and entrance tests differ by programme; verify current official admission rules.",
+    "topic": "Medical and healthcare",
+    "level": "12th"
+  },
+  {
+    "input": "What can Biology students do after HSC?",
+    "response": "Options include regulated medical programmes, dentistry, nursing, pharmacy, physiotherapy, allied health, and life sciences. Requirements and entrance tests differ by programme; verify current official admission rules.",
+    "topic": "Medical and healthcare",
+    "level": "12th"
+  },
+  {
+    "input": "Which medical courses are available?",
+    "response": "Options include regulated medical programmes, dentistry, nursing, pharmacy, physiotherapy, allied health, and life sciences. Requirements and entrance tests differ by programme; verify current official admission rules.",
+    "topic": "Medical and healthcare",
+    "level": "12th"
+  },
+  {
+    "input": "Is NEET required for every healthcare course?",
+    "response": "Options include regulated medical programmes, dentistry, nursing, pharmacy, physiotherapy, allied health, and life sciences. Requirements and entrance tests differ by programme; verify current official admission rules.",
+    "topic": "Medical and healthcare",
+    "level": "12th"
+  },
+  {
+    "input": "What is NEET?",
+    "response": "NEET-UG is used for admission to specified undergraduate medical courses. Eligibility, subjects, dates, participating courses, and counselling rules must be checked in the current official information bulletin.",
+    "topic": "NEET overview",
+    "level": "12th"
+  },
+  {
+    "input": "Do I need NEET to become a doctor?",
+    "response": "NEET-UG is used for admission to specified undergraduate medical courses. Eligibility, subjects, dates, participating courses, and counselling rules must be checked in the current official information bulletin.",
+    "topic": "NEET overview",
+    "level": "12th"
+  },
+  {
+    "input": "Explain the medical entrance exam.",
+    "response": "NEET-UG is used for admission to specified undergraduate medical courses. Eligibility, subjects, dates, participating courses, and counselling rules must be checked in the current official information bulletin.",
+    "topic": "NEET overview",
+    "level": "12th"
+  },
+  {
+    "input": "Which courses use NEET scores?",
+    "response": "NEET-UG is used for admission to specified undergraduate medical courses. Eligibility, subjects, dates, participating courses, and counselling rules must be checked in the current official information bulletin.",
+    "topic": "NEET overview",
+    "level": "12th"
+  },
+  {
+    "input": "What is JEE?",
+    "response": "JEE Main is used for admission to many engineering programmes and is the qualifying route for JEE Advanced. JEE Advanced is used for IIT admission subject to current rules. Other admission routes also exist.",
+    "topic": "JEE overview",
+    "level": "12th"
+  },
+  {
+    "input": "Explain JEE Main and Advanced.",
+    "response": "JEE Main is used for admission to many engineering programmes and is the qualifying route for JEE Advanced. JEE Advanced is used for IIT admission subject to current rules. Other admission routes also exist.",
+    "topic": "JEE overview",
+    "level": "12th"
+  },
+  {
+    "input": "Which exam is for engineering?",
+    "response": "JEE Main is used for admission to many engineering programmes and is the qualifying route for JEE Advanced. JEE Advanced is used for IIT admission subject to current rules. Other admission routes also exist.",
+    "topic": "JEE overview",
+    "level": "12th"
+  },
+  {
+    "input": "Do all engineering colleges need JEE?",
+    "response": "JEE Main is used for admission to many engineering programmes and is the qualifying route for JEE Advanced. JEE Advanced is used for IIT admission subject to current rules. Other admission routes also exist.",
+    "topic": "JEE overview",
+    "level": "12th"
+  },
+  {
+    "input": "What can I do after 12th Commerce?",
+    "response": "Options can include BCom, BBA, economics, finance, accounting, business analytics, and professional courses such as CA, CMA, or CS, subject to current entry rules.",
+    "topic": "Commerce careers after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which degree is best for Commerce students?",
+    "response": "Options can include BCom, BBA, economics, finance, accounting, business analytics, and professional courses such as CA, CMA, or CS, subject to current entry rules.",
+    "topic": "Commerce careers after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "What are Commerce career options?",
+    "response": "Options can include BCom, BBA, economics, finance, accounting, business analytics, and professional courses such as CA, CMA, or CS, subject to current entry rules.",
+    "topic": "Commerce careers after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Can Commerce students study finance?",
+    "response": "Options can include BCom, BBA, economics, finance, accounting, business analytics, and professional courses such as CA, CMA, or CS, subject to current entry rules.",
+    "topic": "Commerce careers after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "How do I become a CA?",
+    "response": "The CA pathway is administered by ICAI and involves the applicable entry route, examinations, practical training, and other current requirements. Check ICAI's official website for the latest details.",
+    "topic": "Chartered Accountancy",
+    "level": "12th"
+  },
+  {
+    "input": "What is Chartered Accountancy?",
+    "response": "The CA pathway is administered by ICAI and involves the applicable entry route, examinations, practical training, and other current requirements. Check ICAI's official website for the latest details.",
+    "topic": "Chartered Accountancy",
+    "level": "12th"
+  },
+  {
+    "input": "Can I start CA after 12th?",
+    "response": "The CA pathway is administered by ICAI and involves the applicable entry route, examinations, practical training, and other current requirements. Check ICAI's official website for the latest details.",
+    "topic": "Chartered Accountancy",
+    "level": "12th"
+  },
+  {
+    "input": "Explain the CA course.",
+    "response": "The CA pathway is administered by ICAI and involves the applicable entry route, examinations, practical training, and other current requirements. Check ICAI's official website for the latest details.",
+    "topic": "Chartered Accountancy",
+    "level": "12th"
+  },
+  {
+    "input": "Can I study law after 12th?",
+    "response": "Integrated law degrees such as BA LLB or BBA LLB may be available after Class 12. Admissions vary; practising law requires meeting applicable professional requirements. Check current official rules.",
+    "topic": "Law after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "How do I become a lawyer?",
+    "response": "Integrated law degrees such as BA LLB or BBA LLB may be available after Class 12. Admissions vary; practising law requires meeting applicable professional requirements. Check current official rules.",
+    "topic": "Law after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "What is BA LLB?",
+    "response": "Integrated law degrees such as BA LLB or BBA LLB may be available after Class 12. Admissions vary; practising law requires meeting applicable professional requirements. Check current official rules.",
+    "topic": "Law after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which course should I take to become an advocate?",
+    "response": "Integrated law degrees such as BA LLB or BBA LLB may be available after Class 12. Admissions vary; practising law requires meeting applicable professional requirements. Check current official rules.",
+    "topic": "Law after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "I like drawing, what can I study?",
+    "response": "Fields may include graphic design, product design, fashion, animation, UI/UX, and visual communication. Eligibility, portfolio, aptitude tests, and entrance requirements vary by course.",
+    "topic": "Design careers",
+    "level": "12th"
+  },
+  {
+    "input": "Which design courses are available?",
+    "response": "Fields may include graphic design, product design, fashion, animation, UI/UX, and visual communication. Eligibility, portfolio, aptitude tests, and entrance requirements vary by course.",
+    "topic": "Design careers",
+    "level": "12th"
+  },
+  {
+    "input": "How can I enter animation?",
+    "response": "Fields may include graphic design, product design, fashion, animation, UI/UX, and visual communication. Eligibility, portfolio, aptitude tests, and entrance requirements vary by course.",
+    "topic": "Design careers",
+    "level": "12th"
+  },
+  {
+    "input": "Is UI UX a career option?",
+    "response": "Fields may include graphic design, product design, fashion, animation, UI/UX, and visual communication. Eligibility, portfolio, aptitude tests, and entrance requirements vary by course.",
+    "topic": "Design careers",
+    "level": "12th"
+  },
+  {
+    "input": "Can I get a government job after 12th?",
+    "response": "Some recruitment notifications accept Class 12 qualifications. Eligibility depends on the post, age, physical standards where applicable, and current rules. Read the latest official notification before applying.",
+    "topic": "Government jobs after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which government exams can I take after HSC?",
+    "response": "Some recruitment notifications accept Class 12 qualifications. Eligibility depends on the post, age, physical standards where applicable, and current rules. Read the latest official notification before applying.",
+    "topic": "Government jobs after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Are there public jobs after class twelve?",
+    "response": "Some recruitment notifications accept Class 12 qualifications. Eligibility depends on the post, age, physical standards where applicable, and current rules. Read the latest official notification before applying.",
+    "topic": "Government jobs after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "What exams are available after 12th?",
+    "response": "Some recruitment notifications accept Class 12 qualifications. Eligibility depends on the post, age, physical standards where applicable, and current rules. Read the latest official notification before applying.",
+    "topic": "Government jobs after 12th",
+    "level": "12th"
+  },
+  {
+    "input": "Which skills should I learn?",
+    "response": "Useful skills depend on the target field. Examples include communication, spreadsheets, coding, data analysis, design tools, teamwork, writing, and problem-solving. Practise through projects; a certificate alone does not guarantee a job.",
+    "topic": "Skills for employability",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "How do I become job-ready?",
+    "response": "Useful skills depend on the target field. Examples include communication, spreadsheets, coding, data analysis, design tools, teamwork, writing, and problem-solving. Practise through projects; a certificate alone does not guarantee a job.",
+    "topic": "Skills for employability",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "What extra skills help with a degree?",
+    "response": "Useful skills depend on the target field. Examples include communication, spreadsheets, coding, data analysis, design tools, teamwork, writing, and problem-solving. Practise through projects; a certificate alone does not guarantee a job.",
+    "topic": "Skills for employability",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "How can I improve my employability?",
+    "response": "Useful skills depend on the target field. Examples include communication, spreadsheets, coding, data analysis, design tools, teamwork, writing, and problem-solving. Practise through projects; a certificate alone does not guarantee a job.",
+    "topic": "Skills for employability",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "How can I find a scholarship?",
+    "response": "Check official national and state scholarship portals, education departments, college offices, and verified foundations. Eligibility and deadlines vary. Never pay an agent who promises a guaranteed scholarship.",
+    "topic": "Scholarships",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "I have a low budget, how can I study?",
+    "response": "Check official national and state scholarship portals, education departments, college offices, and verified foundations. Eligibility and deadlines vary. Never pay an agent who promises a guaranteed scholarship.",
+    "topic": "Scholarships",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "Where can I apply for student financial help?",
+    "response": "Check official national and state scholarship portals, education departments, college offices, and verified foundations. Eligibility and deadlines vary. Never pay an agent who promises a guaranteed scholarship.",
+    "topic": "Scholarships",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "How do I get fee assistance?",
+    "response": "Check official national and state scholarship portals, education departments, college offices, and verified foundations. Eligibility and deadlines vary. Never pay an agent who promises a guaranteed scholarship.",
+    "topic": "Scholarships",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "How do I choose a college?",
+    "response": "Compare recognition, curriculum, facilities, faculty, internships, verified branch-wise placement data, total fees, living costs, safety, and student support. Verify recognition through the relevant official authority.",
+    "topic": "Choosing a college",
+    "level": "12th"
+  },
+  {
+    "input": "What should I check before admission?",
+    "response": "Compare recognition, curriculum, facilities, faculty, internships, verified branch-wise placement data, total fees, living costs, safety, and student support. Verify recognition through the relevant official authority.",
+    "topic": "Choosing a college",
+    "level": "12th"
+  },
+  {
+    "input": "Is placement the only factor?",
+    "response": "Compare recognition, curriculum, facilities, faculty, internships, verified branch-wise placement data, total fees, living costs, safety, and student support. Verify recognition through the relevant official authority.",
+    "topic": "Choosing a college",
+    "level": "12th"
+  },
+  {
+    "input": "How do I compare colleges?",
+    "response": "Compare recognition, curriculum, facilities, faculty, internships, verified branch-wise placement data, total fees, living costs, safety, and student support. Verify recognition through the relevant official authority.",
+    "topic": "Choosing a college",
+    "level": "12th"
+  },
+  {
+    "input": "I don't know what career I want.",
+    "response": "List subjects and activities you enjoy, tasks you do well, and preferred work environments. Explore several careers, required education, costs, and daily tasks. A career quiz can suggest ideas but cannot decide for you.",
+    "topic": "Career confusion",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "I am confused about my future.",
+    "response": "List subjects and activities you enjoy, tasks you do well, and preferred work environments. Explore several careers, required education, costs, and daily tasks. A career quiz can suggest ideas but cannot decide for you.",
+    "topic": "Career confusion",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "How do I discover my interests?",
+    "response": "List subjects and activities you enjoy, tasks you do well, and preferred work environments. Explore several careers, required education, costs, and daily tasks. A career quiz can suggest ideas but cannot decide for you.",
+    "topic": "Career confusion",
+    "level": "10th and 12th"
+  },
+  {
+    "input": "Which career suits me?",
+    "response": "List subjects and activities you enjoy, tasks you do well, and preferred work environments. Explore several careers, required education, costs, and daily tasks. A career quiz can suggest ideas but cannot decide for you.",
+    "topic": "Career confusion",
+    "level": "10th and 12th"
+  },
+
+  { "input": "Which branch is best in engineering?", "response": "Popular engineering branches include Computer Science (CSE), Electronics and Communication (ECE), Mechanical, Civil, and Electrical. CSE and ECE have the highest demand currently. Choose a branch based on your interest and the job market in your region.", "topic": "Engineering branches", "level": "12th" },
+  { "input": "Which engineering branch has best scope?", "response": "Computer Science Engineering (CSE) currently has the highest scope due to demand in software, AI, and IT. Electronics (ECE) is also strong. Mechanical and Civil are good for core industries and government jobs. Choose based on your interest.", "topic": "Engineering branches", "level": "12th" },
+  { "input": "CSE vs mechanical which is better?", "response": "CSE (Computer Science) leads to software jobs with high salaries in IT companies. Mechanical leads to manufacturing, automobile, and core engineering sectors. CSE has more openings right now; Mechanical is better if you prefer hands-on physical systems.", "topic": "Engineering branches", "level": "12th" },
+  { "input": "What is the scope of civil engineering?", "response": "Civil Engineering has strong scope in infrastructure, construction, government projects (PWD, NHAI, Railways), real estate, and urban planning. Government jobs through UPSC/SSC JE are popular. Scope is good with India's infrastructure boom.", "topic": "Engineering branches", "level": "12th" },
+
+  { "input": "How to prepare for JEE?", "response": "Start JEE preparation from Class 11. Focus on NCERT first, then reference books (HC Verma for Physics, RD Sharma/Cengage for Maths). Solve previous year papers regularly. Join a coaching institute or use online platforms. Daily practice and mock tests are essential.", "topic": "JEE preparation", "level": "12th" },
+  { "input": "How many attempts are allowed in JEE?", "response": "JEE Main allows 3 consecutive years of attempts after passing Class 12. Each year has multiple sessions. JEE Advanced can be attempted maximum 2 times in consecutive years. Check the official NTA notification for current rules.", "topic": "JEE overview", "level": "12th" },
+  { "input": "What is JEE Advanced?", "response": "JEE Advanced is the entrance exam for IIT admissions. Only top 2.5 lakh JEE Main qualifiers are eligible. It has 2 papers testing Physics, Chemistry, and Mathematics at a higher difficulty level. Clearing it gives admission to IITs.", "topic": "JEE overview", "level": "12th" },
+  { "input": "What is the JEE exam pattern?", "response": "JEE Main has 75 questions (25 each in Physics, Chemistry, Mathematics). Duration is 3 hours. Marking: +4 for correct, -1 for wrong MCQs. JEE Advanced has 2 papers with various question types. Total marks and pattern change yearly — check official NTA bulletin.", "topic": "JEE overview", "level": "12th" },
+
+  { "input": "How to prepare for NEET?", "response": "NEET preparation requires strong Biology (most scoring), Chemistry, and Physics. Start with NCERT textbooks thoroughly. Practice previous year NEET papers. Coaching from Allen, Aakash, or online platforms helps. Daily revision and mock tests are essential. Prepare for at least 1–2 years.", "topic": "NEET preparation", "level": "12th" },
+  { "input": "What is the NEET exam pattern?", "response": "NEET has 180 questions: Biology (90), Physics (45), Chemistry (45). Total marks: 720. Each correct answer: +4, wrong: -1. Duration: 3 hours 20 minutes. Conducted once a year by NTA. Minimum qualifying marks vary by category.", "topic": "NEET overview", "level": "12th" },
+  { "input": "How many attempts in NEET?", "response": "As per current rules, there is no restriction on the number of NEET attempts as long as you meet the age and eligibility criteria. The minimum age is 17 years. Check the latest NTA official notification for any updated rules.", "topic": "NEET overview", "level": "12th" },
+  { "input": "Which medical courses do not need NEET?", "response": "NEET is mandatory for MBBS, BDS, BAMS, BHMS, BUMS. Courses not requiring NEET include BSc Nursing, B.Pharma, BMLT, B.Optometry, BSc Radiology, Physiotherapy (BPT), and paramedical courses. Check individual institution rules.", "topic": "Medical and healthcare", "level": "12th" },
+
+  { "input": "Which doctor specialization is best?", "response": "Top medical specializations include Cardiology, Neurology, Orthopaedics, Radiology, Dermatology, and General Surgery. Dermatology and Radiology have good work-life balance. Cardiology and Neurology are prestigious. Choose based on interest during MBBS rotations.", "topic": "Medical specialization", "level": "12th" },
+  { "input": "What is the scope of MBBS in India?", "response": "MBBS has excellent scope in India given the doctor-to-population ratio. Government hospital jobs, private practice, hospital employment, or specialization (MD/MS) are options. Indian doctors are also in demand abroad, especially in UK, USA, Canada, and Gulf countries.", "topic": "Medical and healthcare", "level": "12th" },
+  { "input": "What can I do after MBBS?", "response": "After MBBS you can do MD/MS specialization via NEET-PG, work as a government doctor, join private hospitals, open your own clinic, pursue public health (MPH), or go abroad (USMLE for USA, PLAB for UK). Super-specialization (DM/MCh) is also an option.", "topic": "Medical and healthcare", "level": "12th" },
+
+  { "input": "How to become a CA?", "response": "To become a CA: register with ICAI for CA Foundation after 12th, clear Foundation (4 papers), then Intermediate (8 papers), complete 3-year Articleship training, and clear CA Final (8 papers). The whole process takes about 4–5 years. Check ICAI's official website for current exam structure.", "topic": "Chartered Accountancy", "level": "12th" },
+  { "input": "How long does CA take?", "response": "CA typically takes 4 to 5 years after Class 12. This includes CA Foundation (4–6 months), CA Intermediate (about 1 year), 3-year Articleship, and CA Final. The timeline depends on how quickly you clear each level's exams.", "topic": "Chartered Accountancy", "level": "12th" },
+  { "input": "Is CA difficult?", "response": "CA is considered one of the toughest professional courses in India with passing rates around 10–15% at each level. It requires consistent effort over 4–5 years. However, with proper preparation, coaching, and discipline it is achievable. The reward is a highly respected, well-paid career.", "topic": "Chartered Accountancy", "level": "12th" },
+  { "input": "What is the salary after CA?", "response": "A fresher CA earns approximately 6–8 LPA. With 3–5 years experience, 10–20 LPA is common. CAs at Big 4 firms (Deloitte, KPMG, EY, PwC) earn 8–15 LPA. Self-employed CAs with their own practice can earn significantly more depending on clientele.", "topic": "Chartered Accountancy", "level": "12th" },
+
+  { "input": "What is the scope of law in India?", "response": "Law has strong scope in litigation, corporate law, criminal law, cyber law, and intellectual property. Corporate lawyers at top firms earn 10–25 LPA. Litigation builds slowly but pays well over time. Judges are appointed through Judicial Services exams. Demand is growing with India's expanding economy.", "topic": "Law after 12th", "level": "12th" },
+  { "input": "What is CLAT exam?", "response": "CLAT (Common Law Admission Test) is the entrance exam for 22 National Law Universities (NLUs). It tests English, GK, Legal Reasoning, Logical Reasoning, and Quantitative Techniques. 12th passed students with 45% marks can appear. Conducted by the CLAT Consortium once a year.", "topic": "Law after 12th", "level": "12th" },
+  { "input": "Which law college is best in India?", "response": "Top NLUs: NLSIU Bangalore (NLU-1), NLU Delhi (NLU-2), NALSAR Hyderabad, WBNUJS Kolkata, NLU Jodhpur. Admission is through CLAT scores. These are the most prestigious law schools in India with strong placement records.", "topic": "Law after 12th", "level": "12th" },
+
+  { "input": "What is the scope of design career?", "response": "Design has excellent scope across graphic design, UI/UX, product design, fashion, animation, and film. India's digital and creative industries are growing. Top designers earn 8–20 LPA. Freelancers can earn globally. NID and NIFT graduates have strong industry recognition.", "topic": "Design careers", "level": "12th" },
+  { "input": "How to get into NID or NIFT?", "response": "NID (National Institute of Design) admission is through NID DAT (Design Aptitude Test) — tests creativity, drawing, and design thinking. NIFT admission is through NIFT Entrance Test (CAT + GAT + Interview). Both require strong portfolios and creative ability. Any stream in Class 12 is eligible.", "topic": "Design careers", "level": "12th" },
+  { "input": "What is the salary in design field?", "response": "Design salaries: Fresher graphic designer: 2.5–5 LPA. UX/UI designer: 5–12 LPA (high demand). Fashion designer at top brand: 5–15 LPA. Animation artist at studios: 3–8 LPA. Senior designer or creative director: 15–30 LPA. Freelancers earn based on project rates.", "topic": "Design careers", "level": "12th" },
+
+  { "input": "What government jobs can I get after 12th?", "response": "After 12th you can apply for SSC CHSL (Clerk/DEO), Railway Group D and NTPC, Indian Army (Soldier), Indian Navy (Sailor), CISF/BSF Constable, Post Office GDS, Bank Clerk (IBPS), and state government jobs. Each has different eligibility, age limits, and physical standards.", "topic": "Government jobs after 12th", "level": "12th" },
+  { "input": "How to prepare for SSC exam?", "response": "SSC CGL/CHSL preparation: focus on General Intelligence (Reasoning), General Awareness (GK), Quantitative Aptitude (Maths), and English. Use SSC previous year papers. Tier 1 is Computer Based Test (CBT). Coaching or self-study with SSC study materials works well. Daily practice is key.", "topic": "Government jobs after 12th", "level": "12th" },
+  { "input": "What is the salary in government jobs?", "response": "Government job salaries after 12th: SSC CHSL (Clerk): Rs 19,900–63,200/month. Railway Group D: Rs 18,000–56,900/month. Army Soldier: Rs 21,700 + allowances. Bank Clerk (IBPS): Rs 20,000–29,000/month. All include DA, HRA, medical, and pension benefits — total package is much higher.", "topic": "Government jobs after 12th", "level": "12th" },
+
+  { "input": "What is BBA course?", "response": "BBA (Bachelor of Business Administration) is a 3-year undergraduate degree covering Marketing, Finance, HR, and Operations Management. It is a good foundation for MBA. Top colleges: Christ University, Symbiosis, NMIMS, IP University. Admission through entrance exams or merit.", "topic": "Commerce careers after 12th", "level": "12th" },
+  { "input": "What is BCom course?", "response": "BCom (Bachelor of Commerce) is a 3-year degree covering Accountancy, Economics, Business Law, and Finance. It is the most common Commerce degree. BCom Honours from Delhi University or top colleges is highly valued. After BCom, options include CA, MBA, CS, or government exams.", "topic": "Commerce careers after 12th", "level": "12th" },
+  { "input": "What is the scope of BBA?", "response": "BBA scope: Management trainee roles in companies (3–5 LPA fresher), entry into MBA from top institutes, entrepreneurship, banking, and HR roles. BBA + MBA combination from good institutes leads to 8–20 LPA packages. BBA alone has limited scope — MBA or additional qualification recommended.", "topic": "Commerce careers after 12th", "level": "12th" },
+
+  { "input": "What is the scope of computer science after 12th?", "response": "Computer Science has the highest scope among all fields right now. Careers include Software Developer, Data Scientist, Cybersecurity Expert, AI/ML Engineer, Cloud Architect, Web Developer. India's IT industry employs 5 million+ engineers. Top MNCs like Google, Microsoft, Amazon, TCS, Infosys hire actively.", "topic": "Computer science and IT", "level": "12th" },
+  { "input": "What is BCA course?", "response": "BCA (Bachelor of Computer Applications) is a 3-year degree covering Programming, DBMS, Networking, and Web Development. It is a good alternative to BTech for computer careers. After BCA, MCA or MBA in IT is recommended. Fresher BCA salary: 3–5 LPA.", "topic": "Computer science and IT", "level": "12th" },
+  { "input": "Should I do BTech CSE or BCA?", "response": "BTech CSE is a 4-year engineering degree with deeper technical content and higher starting salaries (5–15 LPA). BCA is a 3-year degree, more affordable, with lower starting salary (3–5 LPA). If budget allows, BTech CSE from a good college is preferable. BCA + MCA is a good alternative path.", "topic": "Computer science and IT", "level": "12th" },
+  { "input": "What programming languages should I learn?", "response": "Start with Python — it is the most versatile and in-demand language for web, data science, and AI. Then learn JavaScript for web development. Java or C++ for competitive programming. SQL for databases. Cloud skills (AWS/Azure) are valuable additions. Build projects to demonstrate skills.", "topic": "Computer science and IT", "level": "12th" },
+
+  { "input": "What is the scope of arts after 12th?", "response": "Arts/Humanities has wide scope: Civil Services (IAS/IPS), Law, Journalism, Teaching, Psychology, Social Work, Design, Film, Writing, and NGO work. After graduation, MBA from top colleges is open to all streams. Arts students often excel in communication-heavy, leadership, and creative roles.", "topic": "Arts and Humanities", "level": "12th" },
+  { "input": "What is the scope of psychology?", "response": "Psychology scope: Clinical Psychologist, School Counsellor, HR Specialist, Corporate Trainer, Sports Psychologist, Researcher. Demand is growing in India with increased mental health awareness. BSc/BA Psychology + MA/MSc + MPhil/PhD is the full path. RCI registration required for clinical practice.", "topic": "Arts and Humanities", "level": "12th" },
+  { "input": "How to become a journalist?", "response": "After 12th (any stream), pursue BA in Journalism and Mass Communication, or BMM (Bachelor of Mass Media). Top institutes: IIMC Delhi, Symbiosis, Xavier Institute (XIC). Build writing, reporting, and digital skills. Internships at newspapers or news channels are essential to enter the field.", "topic": "Arts and Humanities", "level": "12th" },
+  { "input": "How to become a teacher after 12th?", "response": "To teach at primary level: complete D.El.Ed (2 years after 12th) and clear CTET. For secondary school: complete graduation + B.Ed (2 years) + CTET/State TET. For college/university teaching: postgraduate degree + UGC NET or PhD. Government teacher posts are recruited by state education boards.", "topic": "Arts and Humanities", "level": "12th" },
+
+  { "input": "How to become an IAS officer?", "response": "To become an IAS officer: complete graduation (any stream), then appear for UPSC Civil Services Exam (age 21–32 for general category). Clear Prelims, Mains (9 papers), and Personality Test (Interview). IAS is allocated based on rank and preference. Start NCERT reading from Class 11 itself.", "topic": "Government jobs after 12th", "level": "12th" },
+  { "input": "What subjects are needed for IAS?", "response": "There is no specific subject requirement for IAS — any graduation qualifies. However, UPSC GS covers History, Geography, Polity, Economy, Science, and Current Affairs. Optional subject (one from a list) should ideally match your graduation subject. Reading NCERT books from Class 6–12 is the foundation.", "topic": "Government jobs after 12th", "level": "12th" },
+
+  { "input": "How to join the Indian Army after 12th?", "response": "After 12th: NDA (National Defence Academy) exam for Army/Navy/Air Force — requires PCM for Air Force and Navy. Clear UPSC NDA written exam + SSB interview. Join NDA for 3 years then IMA for 1 year. Technical Entry Scheme (TES) is for PCM students directly into technical branches.", "topic": "Government jobs after 12th", "level": "12th" },
+  { "input": "How to become a pilot after 12th?", "response": "After 12th with PCM: get a Class 2 Medical Certificate from a DGCA-approved doctor. Join a DGCA-approved flying school. Obtain Student Pilot Licence (SPL), then Private Pilot Licence (PPL), then Commercial Pilot Licence (CPL). Training costs Rs 35–70 lakh. Airlines hire CPL holders with required flying hours.", "topic": "Options after 12th", "level": "12th" },
+
+  { "input": "What is the scope of hotel management?", "response": "Hotel Management has global scope. IHM graduates work at Taj, Oberoi, Marriott, Hyatt, and international chains. Roles: Hotel Manager, Executive Chef, Event Manager, Cabin Crew. India's hospitality industry is growing fast. Starting salary: 3–5 LPA; experienced managers earn 10–25 LPA.", "topic": "Options after 12th", "level": "12th" },
+  { "input": "How to get into hotel management?", "response": "After 12th (any stream with 50% marks), appear for NCHMCT JEE conducted by NTA for admission to 21 central IHMs. State-level hotel management entrance exams also available. BHM is a 4-year degree. Strong English communication and personality are important for the hospitality field.", "topic": "Options after 12th", "level": "12th" },
+
+  { "input": "What is the scope of pharmacy?", "response": "Pharmacy scope: Hospital Pharmacist, Retail Pharmacist, Drug Inspector (government), Pharmaceutical Sales Rep, R&D in pharma companies, Quality Control. India's pharma industry is the 3rd largest globally. B.Pharma fresher salary: 3–6 LPA. M.Pharma in research or regulatory affairs: 6–12 LPA.", "topic": "Options after 12th", "level": "12th" },
+
+  { "input": "What is the scope of studying abroad?", "response": "Studying abroad offers global exposure, better research facilities, and international job opportunities. Popular destinations: USA (MIT, Stanford), UK (Oxford, Imperial), Canada, Australia, Germany (free tuition). Required: IELTS/TOEFL for English, SAT/GRE/GMAT for some programs. Scholarships reduce costs significantly.", "topic": "Options after 12th", "level": "12th" },
+  { "input": "How to apply for colleges abroad?", "response": "For USA: appear for SAT, write SOP (Statement of Purpose), get recommendation letters, apply through Common App. For UK: apply through UCAS. Learn English — IELTS score of 6.5+ needed for most universities. Start preparation in Class 11 to apply in Class 12. Scholarship portals: Chevening, Fulbright, Commonwealth.", "topic": "Options after 12th", "level": "12th" }
+]

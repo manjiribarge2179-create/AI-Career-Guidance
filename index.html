@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Career Guidance AI — 10th & 12th Students</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      padding: 24px 0 16px;
+      color: #e0e0e0;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      color: #4fc3f7;
+      letter-spacing: 1px;
+    }
+
+    header p {
+      color: #90caf9;
+      font-size: 0.95rem;
+      margin-top: 6px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 860px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    /* Quick topics */
+    .quick-topics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+
+    .topic-btn {
+      background: rgba(79, 195, 247, 0.15);
+      border: 1px solid #4fc3f7;
+      color: #4fc3f7;
+      padding: 6px 14px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.82rem;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .topic-btn:hover {
+      background: #4fc3f7;
+      color: #1a1a2e;
+    }
+
+    /* Chat window */
+    .chat-window {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(79, 195, 247, 0.3);
+      border-radius: 16px;
+      padding: 20px;
+      height: 460px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      backdrop-filter: blur(8px);
+    }
+
+    .chat-window::-webkit-scrollbar { width: 5px; }
+    .chat-window::-webkit-scrollbar-thumb { background: #4fc3f7; border-radius: 4px; }
+
+    /* Messages */
+    .message { display: flex; gap: 10px; max-width: 82%; }
+    .message.user { align-self: flex-end; flex-direction: row-reverse; }
+    .message.bot  { align-self: flex-start; }
+
+    .avatar {
+      width: 36px; height: 36px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    .message.user .avatar { background: #4fc3f7; color: #1a1a2e; }
+    .message.bot  .avatar { background: #7c4dff; color: #fff; }
+
+    .bubble {
+      padding: 10px 14px;
+      border-radius: 14px;
+      font-size: 0.9rem;
+      line-height: 1.55;
+      word-break: break-word;
+    }
+
+    .message.user .bubble {
+      background: #4fc3f7;
+      color: #1a1a2e;
+      border-bottom-right-radius: 4px;
+    }
+
+    .message.bot .bubble {
+      background: rgba(124, 77, 255, 0.2);
+      color: #e0e0e0;
+      border: 1px solid rgba(124, 77, 255, 0.4);
+      border-bottom-left-radius: 4px;
+    }
+
+    /* Typing indicator */
+    .typing .bubble { display: flex; gap: 5px; align-items: center; padding: 14px; }
+    .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #7c4dff;
+      animation: bounce 1.2s infinite;
+    }
+    .dot:nth-child(2) { animation-delay: 0.2s; }
+    .dot:nth-child(3) { animation-delay: 0.4s; }
+
+    @keyframes bounce {
+      0%, 80%, 100% { transform: translateY(0); }
+      40% { transform: translateY(-8px); }
+    }
+
+    /* Input row */
+    .input-row {
+      display: flex;
+      gap: 10px;
+    }
+
+    #user-input {
+      flex: 1;
+      padding: 12px 16px;
+      border-radius: 30px;
+      border: 1px solid rgba(79, 195, 247, 0.5);
+      background: rgba(255,255,255,0.07);
+      color: #e0e0e0;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    #user-input:focus { border-color: #4fc3f7; }
+    #user-input::placeholder { color: #888; }
+
+    #send-btn {
+      padding: 12px 24px;
+      border-radius: 30px;
+      border: none;
+      background: linear-gradient(135deg, #4fc3f7, #7c4dff);
+      color: #fff;
+      font-size: 0.95rem;
+      cursor: pointer;
+      font-weight: 600;
+      transition: opacity 0.2s;
+    }
+
+    #send-btn:hover { opacity: 0.85; }
+    #send-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* Info tabs */
+    .tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .tab-btn {
+      padding: 7px 18px;
+      border-radius: 20px;
+      border: 1px solid #4fc3f7;
+      background: transparent;
+      color: #4fc3f7;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .tab-btn.active, .tab-btn:hover {
+      background: #4fc3f7;
+      color: #1a1a2e;
+    }
+
+    .info-panel {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(79, 195, 247, 0.2);
+      border-radius: 12px;
+      padding: 16px;
+      color: #ccc;
+      font-size: 0.85rem;
+      min-height: 80px;
+      display: none;
+    }
+
+    .info-panel.visible { display: block; }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .info-card {
+      background: rgba(79, 195, 247, 0.08);
+      border: 1px solid rgba(79, 195, 247, 0.25);
+      border-radius: 10px;
+      padding: 12px;
+    }
+
+    .info-card strong { color: #4fc3f7; display: block; margin-bottom: 4px; }
+
+    footer {
+      color: #555;
+      font-size: 0.78rem;
+      text-align: center;
+      padding: 14px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🎓 Career Guidance AI</h1>
+  <p>Your personal advisor for 10th &amp; 12th students — powered by a custom-trained model</p>
+</header>
+
+<div class="container">
+
+  <!-- Quick topic suggestions -->
+  <div class="quick-topics" id="quick-topics">
+    <button class="topic-btn" onclick="sendQuick('What should I choose after 10th?')">After 10th options</button>
+    <button class="topic-btn" onclick="sendQuick('Career options after 12th Science PCM')">12th PCM careers</button>
+    <button class="topic-btn" onclick="sendQuick('Career options after 12th Science PCB')">12th PCB careers</button>
+    <button class="topic-btn" onclick="sendQuick('How to become a doctor after 12th?')">Become a Doctor</button>
+    <button class="topic-btn" onclick="sendQuick('How do I become an engineer after 12th?')">Become an Engineer</button>
+    <button class="topic-btn" onclick="sendQuick('What are career options after 12th Commerce?')">Commerce careers</button>
+    <button class="topic-btn" onclick="sendQuick('How to become an IAS officer?')">Civil Services</button>
+    <button class="topic-btn" onclick="sendQuick('What are ITI courses after 10th?')">ITI after 10th</button>
+  </div>
+
+  <!-- Chat window -->
+  <div class="chat-window" id="chat-window">
+    <div class="message bot">
+      <div class="avatar">🤖</div>
+      <div class="bubble">
+        Hello! I'm your Career Guidance AI. I can help 10th and 12th students explore careers, streams, entrance exams, and colleges. What would you like to know?
+      </div>
+    </div>
+  </div>
+
+  <!-- Input -->
+  <div class="input-row">
+    <input type="text" id="user-input" placeholder="Ask about careers, exams, streams..." autocomplete="off" />
+    <button id="send-btn" onclick="sendMessage()">Send</button>
+  </div>
+
+  <!-- Info tabs -->
+  <div class="tabs">
+    <button class="tab-btn" onclick="loadInfo('engineering')">Engineering</button>
+    <button class="tab-btn" onclick="loadInfo('medical')">Medical</button>
+    <button class="tab-btn" onclick="loadInfo('exams')">Entrance Exams</button>
+    <button class="tab-btn" onclick="loadInfo('colleges')">Top Colleges</button>
+  </div>
+
+  <div class="info-panel" id="info-panel"></div>
+
+</div>
+
+<footer>Trained only on our custom career guidance dataset &bull; No external AI APIs used</footer>
+
+<script>
+  const chatWindow = document.getElementById('chat-window');
+  const inputEl    = document.getElementById('user-input');
+  const sendBtn    = document.getElementById('send-btn');
+  const infoPanel  = document.getElementById('info-panel');
+
+  inputEl.addEventListener('keydown', e => { if (e.key === 'Enter') sendMessage(); });
+
+  function addMessage(role, text) {
+    const div = document.createElement('div');
+    div.className = `message ${role}`;
+    div.innerHTML = `
+      <div class="avatar">${role === 'user' ? '🧑' : '🤖'}</div>
+      <div class="bubble">${text}</div>
+    `;
+    chatWindow.appendChild(div);
+    chatWindow.scrollTop = chatWindow.scrollHeight;
+    return div;
+  }
+
+  function addTyping() {
+    const div = document.createElement('div');
+    div.className = 'message bot typing';
+    div.id = 'typing-indicator';
+    div.innerHTML = `
+      <div class="avatar">🤖</div>
+      <div class="bubble"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+    `;
+    chatWindow.appendChild(div);
+    chatWindow.scrollTop = chatWindow.scrollHeight;
+  }
+
+  function removeTyping() {
+    const el = document.getElementById('typing-indicator');
+    if (el) el.remove();
+  }
+
+  async function sendMessage() {
+    const msg = inputEl.value.trim();
+    if (!msg) return;
+
+    inputEl.value = '';
+    sendBtn.disabled = true;
+    addMessage('user', msg);
+    addTyping();
+
+    try {
+      const res  = await fetch('/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: msg })
+      });
+      const data = await res.json();
+      removeTyping();
+      addMessage('bot', data.response);
+    } catch (err) {
+      removeTyping();
+      addMessage('bot', 'Sorry, something went wrong. Please try again.');
+    } finally {
+      sendBtn.disabled = false;
+      inputEl.focus();
+    }
+  }
+
+  function sendQuick(text) {
+    inputEl.value = text;
+    sendMessage();
+  }
+
+  let activeTab = null;
+
+  async function loadInfo(type) {
+    if (activeTab === type) {
+      infoPanel.className = 'info-panel';
+      activeTab = null;
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      return;
+    }
+
+    activeTab = type;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    event.target.classList.add('active');
+
+    infoPanel.innerHTML = 'Loading...';
+    infoPanel.className = 'info-panel visible';
+
+    try {
+      let url = '';
+      let render = null;
+
+      if (type === 'engineering') {
+        url = '/api/careers/PCM';
+        render = items => items.map(c => `
+          <div class="info-card">
+            <strong>${c.title}</strong>
+            <div>${c.description}</div>
+            <div style="margin-top:6px;color:#90caf9">Salary: ${c.avg_salary} &bull; ${c.duration}</div>
+            <div style="color:#888;font-size:0.8rem">Exams: ${c.required_exams}</div>
+          </div>`).join('');
+      } else if (type === 'medical') {
+        url = '/api/careers/PCB';
+        render = items => items.map(c => `
+          <div class="info-card">
+            <strong>${c.title}</strong>
+            <div>${c.description}</div>
+            <div style="margin-top:6px;color:#90caf9">Salary: ${c.avg_salary} &bull; ${c.duration}</div>
+            <div style="color:#888;font-size:0.8rem">Exams: ${c.required_exams}</div>
+          </div>`).join('');
+      } else if (type === 'exams') {
+        url = '/api/exams';
+        render = items => items.map(e => `
+          <div class="info-card">
+            <strong>${e.name}</strong>
+            <div>${e.full_name}</div>
+            <div style="margin-top:4px;color:#90caf9">${e.description}</div>
+            <div style="color:#888;font-size:0.8rem">By: ${e.conducting_body} &bull; Stream: ${e.stream}</div>
+          </div>`).join('');
+      } else if (type === 'colleges') {
+        url = '/api/colleges/Engineering';
+        render = items => items.map(c => `
+          <div class="info-card">
+            <strong>${c.name}</strong>
+            <div>${c.type} &bull; ${c.location}</div>
+            <div style="margin-top:4px;color:#90caf9">${c.ranking}</div>
+          </div>`).join('');
+      }
+
+      const res  = await fetch(url);
+      const data = await res.json();
+
+      if (!data.length) {
+        infoPanel.innerHTML = 'No data found.';
+        return;
+      }
+
+      infoPanel.innerHTML = `<div class="info-grid">${render(data)}</div>`;
+    } catch (err) {
+      infoPanel.innerHTML = 'Failed to load data.';
+    }
+  }
+</script>
+</body>
+</html>
